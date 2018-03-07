@@ -4,6 +4,7 @@
 //     Updates by: Aaron Spaulding <aaron@sachimp.com>,
 //                 Karol Janyst <http://github.com/LKay>
 
+import * as React from 'react';
 import { Component, ChangeEvent, FocusEvent, FocusEventHandler } from "react";
 import { Moment } from "moment";
 
